@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+unbiased-ai-detection\core\__pycache__
+unbiased-ai-detection\core\__pycache__
 *.py[codz]
 *$py.class
 
